@@ -1,5 +1,4 @@
-<script>    
-window.onload = CapturaParametrosUrl();
+ window.onload = CapturaParametrosUrl();
     
 /* 
 	Captura parâmetros de URL com JS 
@@ -48,4 +47,3 @@ function CapturaParametrosUrl() {
 		}
     }
 }
-</script>
