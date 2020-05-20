@@ -1,4 +1,3 @@
-<html>
 <script>    
 window.onload = CapturaParametrosUrl();
     
@@ -50,4 +49,3 @@ function CapturaParametrosUrl() {
     }
 }
 </script>
-</html>
